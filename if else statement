@@ -1,0 +1,9 @@
+name == 'sayli'
+
+
+if name == 'sayli':
+  print('hi, sayli')
+
+else:
+    print('Hello, stranger')
+
